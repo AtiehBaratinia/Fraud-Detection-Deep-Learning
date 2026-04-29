@@ -1,7 +1,6 @@
 # Permutation-Invariant Deep Learning for Fraud Detection in Insurance Claims
 
 > Benchmarking permutation-invariant deep architectures (Deep Sets, FT-Transformer, Tabular GCN) against gradient-boosted tree baselines on the Vehicle Insurance Fraud dataset.
-> Final project for **DS677 – Deep Learning**, New Jersey Institute of Technology, Spring 2026.
 
 ---
 
@@ -135,8 +134,6 @@ Random seed is fixed to 42 in the first cell.
 
 **Atieh Barati Nia** — PhD Student, Department of Data Science
 New Jersey Institute of Technology
-
-Course: **DS677 — Deep Learning** · Spring 2026
 
 ## License
 

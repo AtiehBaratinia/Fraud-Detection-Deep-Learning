@@ -1,0 +1,44 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Cached data / model artifacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+data/
+datasets/
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# Kaggle credentials
+kaggle.json
+
+# Logs
+*.log
